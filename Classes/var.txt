@@ -1,0 +1,14 @@
+Clr - Color
+nsi - NoOfSites
+cg - ColorGroup
+s - sites
+n - name
+p - price
+mp - mortgage price
+br - base rent
+hp - house price
+h - houses
+H - hotel
+rf - rent factor
+M - mortgaged
+

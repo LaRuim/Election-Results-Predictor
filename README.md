@@ -6,7 +6,7 @@ We try to figure out whether using the social media can help predict the electio
 
 ### Resulting Accuracy
 
-The accuracy varies because we randomly our training sets. But it should be stable at around $[65, 75]$. This is a demo run:
+The accuracy varies because we randomly split our training sets. But it should be stable at around $[65, 75]$. This is a demo run:
 
 - Original Naive Bayes: 72.9607250755287
 - Sklearn Multinomial Naive Bayes: 70.2416918429003

@@ -1,6 +1,6 @@
 # Tweet Sentiment Analysis
 
-This is a course project that analyzed the sentiment of tweets posted in 2016 U.S. Election Day. (Indian tweets were wayyyy to hard)
+This is a course project that analyzed the sentiment of tweets posted in 2016 U.S. Election Day. (Indian tweets were wayyyy too hard)
 
 We try to figure out whether using the social media can help predict the election result.
 
